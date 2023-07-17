@@ -6,12 +6,12 @@
         <artifactId>myBlog</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <groupId>com.zhong.blog</groupId>
+    <groupId>com.zhong</groupId>
     <artifactId>blog</artifactId>
 
     <dependencies>
         <dependency>
-            <groupId>com.zhong.framework</groupId>
+            <groupId>com.zhong</groupId>
             <artifactId>framework</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
